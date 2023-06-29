@@ -1,0 +1,8 @@
+{
+    "name": "Build/Deploy Helm to AKS Workflow",
+    "description": "Nodejs CI starter workflow.",
+    "iconName": "octicon hubot",
+    "categories": [
+        "Nodejs"
+    ]
+}
